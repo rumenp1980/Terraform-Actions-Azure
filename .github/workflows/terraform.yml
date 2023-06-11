@@ -48,3 +48,4 @@ jobs:
     # Checks that all Terraform configuration files adhere to a canonical format
     - name: Terraform Apply
       run: terraform apply -auto-approve
+      
